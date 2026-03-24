@@ -1,6 +1,6 @@
 # Eduardo Fernandes Alves
 
-**QA Intern | Desenvolvedor Web em Formação (Python / Front-end)**
+**QA Intern | Desenvolvedor Web em Formação**
 
 ---
 
