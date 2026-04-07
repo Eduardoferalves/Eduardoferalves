@@ -27,15 +27,6 @@ Graduando em Análise e Desenvolvimento de Sistemas no UniCEUB, aplico a visão 
 
 ---
 
-## Estatísticas de Código
-
-<p align="left">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardoferalves&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoferalves&layout=compact&theme=radical&langs_count=5&hide_border=true" alt="Linguagens Utilizadas" height="170px" />
-</p>
-
----
-
 ## Contato e Networking
 
 <p align="left">
