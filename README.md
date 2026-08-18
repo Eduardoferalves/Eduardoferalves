@@ -8,26 +8,11 @@
 
 Atuo na área de Qualidade de Software (QA) validando sistemas web de alta criticidade para o setor de saúde. Meu foco diário envolve a análise de issues, validação de regras de negócio e testes de homologação, operando diretamente em fluxos reais de desenvolvimento com Git e GitHub.
 
-Essa imersão em ambientes de produção fundamenta minha transição para o Desenvolvimento Web. Atualmente, construo minha base técnica em Front-end (HTML, CSS) e lógica backend (Python/Flask), com o objetivo de dominar o ecossistema Full Stack.
-
 Graduando em Análise e Desenvolvimento de Sistemas no UniCEUB, aplico a visão crítica e investigativa adquirida no QA para escrever códigos mais limpos, resilientes e orientados à prevenção de falhas desde a sua concepção.
 
 ---
 
-## Tech Stack & Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-## Contato e Networking
+## Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardoferalves/" target="_blank">
